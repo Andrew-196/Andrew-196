@@ -1,9 +1,14 @@
-<h1 align="center">Hi there, I'm <a href="https://vk.com/rod196" target="_blank">Andrew</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrew
+==============================================================================================================================
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-196&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Skills
 
-<!---
-Andrew-196/Andrew-196 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Andrew-196" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
+<a href="https://vk.com/rod196" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/331634/vk-v2.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/show/331634/vk-v2.svg" /> <img src="https://www.svgrepo.com/show/331634/vk-v2.svg" width="32" height="32" /> </picture> </a>
+<a href="https://t.me/Rod_196" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/354443/telegram.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/show/354443/telegram.svg" /> <img src="https://www.svgrepo.com/show/354443/telegram.svg" width="32" height="32" /> </picture> </a></p>
