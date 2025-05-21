@@ -1,4 +1,4 @@
-<h3 class="heading-element" dir="auto">Hi 👋 My name is Andrew</h3>
+<h3 class="heading-element" dir="auto">Hi 👋</h3>
 
 
 
