@@ -1,7 +1,6 @@
 <h3 class="heading-element" dir="auto">Hi 👋</h3>
 
 
-
 <h3 class="heading-element" dir="auto">Skills</h3>
 
 
@@ -17,6 +16,7 @@
 <a href="https://ru.wikipedia.org/wiki/Ansible" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353399/ansible.svg" width="40" height="40" alt="Ansible" /></a>
 
 
+<a href="https://github.com/Andrew-196" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-196&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=My%20%Programming%20%Languages" alt="My Programming Languages" /></a>
 
 
 </p>
@@ -26,4 +26,6 @@
 <p align="left"> <a href="https://www.github.com/Andrew-196" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
 <a href="https://vk.com/rod196" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/331634/vk-v2.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/show/331634/vk-v2.svg" /> <img src="https://www.svgrepo.com/show/331634/vk-v2.svg" width="32" height="32" /> </picture> </a>
 <a href="https://t.me/Rod_196" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/354443/telegram.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/show/354443/telegram.svg" /> <img src="https://www.svgrepo.com/show/354443/telegram.svg" width="32" height="32" /> </picture> </a></p>
-<a href="https://github.com/Andrew-196" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-196&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=My%20%Programming%20%Languages" alt="My Programming Languages" /></a>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Andrew-196&theme=dark&hide_border=true&border_radius=5&locale=ru)](https://git.io/streak-stats)
