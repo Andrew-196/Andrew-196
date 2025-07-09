@@ -2,6 +2,7 @@
 <h3 class="heading-element" dir="auto">Skills</h3>
 
 
+![Безый-3](https://github.com/user-attachments/assets/f68c8afd-6db5-4349-bbf3-668c789bc09d)
 
 
 
