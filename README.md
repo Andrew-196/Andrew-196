@@ -1,8 +1,8 @@
 <h3 class="heading-element" dir="auto">Привет👋</h3>
 <h3 class="heading-element" dir="auto">Skills</h3>
 
+![Безый-3](https://github.com/user-attachments/assets/aa2c2a39-47c5-4ffd-a1e3-0ad5dcb919b1)
 
-![Безый-3](https://github.com/user-attachments/assets/f68c8afd-6db5-4349-bbf3-668c789bc09d)
 
 
 
