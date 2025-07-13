@@ -1,7 +1,10 @@
 ![Безый-3](https://github.com/user-attachments/assets/6c009815-2f27-4ae1-85f8-9ae36b22882b)
 
-<h3 class="heading-element" dir="auto">TG БАРСОФТ</h3>
-<a href="https://t.me/+a3h3cBQR12Q5ODhi"_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/354443/telegram.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/show/354443/telegram.svg" /> <img src="https://www.svgrepo.com/show/354443/telegram.svg" width="32" height="32" /> </picture> </a></p>
+<h3 class="heading-element" dir="auto">БАРСОФТ</h3>
+
+<p align="left">
+<a href="https://vk.com/barsoft" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/331634/vk-v2.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/show/331634/vk-v2.svg" /> <img src="https://www.svgrepo.com/show/331634/vk-v2.svg" width="32" height="32" /> </picture> </a>
+<a href="https://t.me/+a3h3cBQR12Q5ODhi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/354443/telegram.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/show/354443/telegram.svg" /> <img src="https://www.svgrepo.com/show/354443/telegram.svg" width="32" height="32" /> </picture> </a></p>
 
 
 
